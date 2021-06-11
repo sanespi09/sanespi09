@@ -1,14 +1,14 @@
 # HOLA 👋🏼 BIENVENIDO!
-## SOY SANTIAGO ESPINA, DESARROLLADOR WEB  
+## SOY SANTIAGO ESPINA, DESARROLLADOR WEB  🤓
 
 ### SOBRE MI
 Desde pequeño tengo afinidad con la tecnología,  
 siempre tuve interes en saber como podia expandir las posibilidades de las computadoras.  
 Ya de adolescente tuve mis primeros acercamientos con el mundo de la programación,  
-realizando pequeños videojuegos en Adobe Flash. ☠️  
+realizando pequeños videojuegos en Adobe Flash. 🚀☠️  
 
-Luego de un intento a medias de obtener unaformación academica en Computación alla por el 2013,  
-Desde comienzos del 2020 decidi ponerle toda mi energía a esta inquietud tecnologica.  
+Luego de una breve formación academica en Computación alla por el 2013,  
+Desde comienzos del 2020 decidi ponerle toda mi energía a esta inquietud tecnológica.  
 Me adentre en el mundo del desarrollo web, en un comienzo orientado al front-end,  
 aprovechando mis conocimientos previos en diseño grafico.  
 
@@ -20,5 +20,13 @@ y aprender sobre este area, con la intención de poder ser un desarrollador Full
 A grandes rasgos me considero una persona muy creativa, analítica, perseverante y autodidacta.
 
 ### CONOCIMIENTOS
+
+- JavaScript
+- React.js
+- Node.js
+- Express
+- jQuery
+- HTML5
+- CSS3
 
 
