@@ -7,15 +7,16 @@ siempre tuve interes en saber como podia expandir las posibilidades de las compu
 Ya de adolescente tuve mis primeros acercamientos con el mundo de la programación,  
 realizando pequeños videojuegos en Adobe Flash. 🚀☠️  
 
-Luego de una breve formación academica en Computación alla por el 2013,  
-Desde comienzos del 2020 decidi ponerle toda mi energía a esta inquietud tecnológica.  
+Luego de una breve formación academica en Computación alla por el 2013,   
+y de completar una formación como Ingeniero de Sonido.
+Desde comienzos del 2020 decidi ponerle toda mi energía a esta inclinación tecnológica.  
 Me adentre en el mundo del desarrollo web, en un comienzo orientado al front-end,  
 aprovechando mis conocimientos previos en diseño grafico.  
 
 A medida que fui refinando mis capacidades en el area,  
 comencé a sentirme atraido por lo que pasaba detras de escena,  
-asi que en este 2021 me puse a estudiar tecnologías de back-end  
-y aprender sobre este area, con la intención de poder ser un desarrollador Full Stack.
+asi que en este 2021 me propuse estudiar tecnologías de back-end  
+y aprender sobre esta amplia area, con la intención de ser un desarrollador Full Stack.
 
 A grandes rasgos me considero una persona muy creativa, analítica, perseverante y autodidacta.
 
