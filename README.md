@@ -8,7 +8,7 @@ Ya de adolescente tuve mis primeros acercamientos con el mundo de la programaci�
 realizando pequeños videojuegos en Adobe Flash. 🚀☠️  
 
 Luego de una breve formación academica en Computación alla por el 2013,   
-y de completar una formación como Ingeniero de Sonido.
+y de completar una formación como Ingeniero de Sonido.  
 Desde comienzos del 2020 decidi ponerle toda mi energía a esta inclinación tecnológica.  
 Me adentre en el mundo del desarrollo web, en un comienzo orientado al front-end,  
 aprovechando mis conocimientos previos en diseño grafico.  
@@ -23,6 +23,7 @@ A grandes rasgos me considero una persona muy creativa, analítica, perseverante
 ### CONOCIMIENTOS
 
 - JavaScript
+- Next.js
 - React.js
 - Node.js
 - Express
