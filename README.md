@@ -14,7 +14,7 @@ In late 2019 entered the world of web development, in a front-end oriented begin
 taking advantage of my previous knowledge in graphic design.  
 
 As I refined my skills in the area,   
-I began to feel attracted by what was happening behind the scenes,  
+I began to feel attracted to what was happening behind the scenes,  
 so, in the beginings of 2021 I decided to study back-end technologies  
 and get a better grasp about this broad area, with the goal of becoming a Full Stack developer.  
 
