@@ -27,6 +27,7 @@ Broadly speaking, I consider myself a very creative, analytical, persevering and
 - Next.js
 - React.js
 - Node.js
+- Sass
 - Express
 - MongoDB
 - Firebase
