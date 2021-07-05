@@ -16,23 +16,31 @@ taking advantage of my previous experience in graphic design.
 As I refined my skills in the area,   
 I began to feel attracted to what was happening behind the scenes,  
 so, in the beginnings of 2021 I decided to study back-end technologies  
-and get a better grasp about this vast area, with the goal of becoming a Full Stack developer.  
+and get a better grasp about this vast area.
+
+In the present time, i'm focused on the React ecosystem,  
+Making proyects and studying everything i can about it.  
 
 Broadly speaking, I consider myself a very creative, analytical, persevering and self-taught person.
 
 
 ### SKILLS
 
-- JavaScript
-- Next.js
-- React.js
-- Node.js
-- Sass
-- Express
-- MongoDB
-- Firebase
-- jQuery
-- HTML5
-- CSS3
+#### FRONT END
+* ReactJS
+* NextJS
+* Sass
+* Styled-Components
+* CSS
+* HTML
+* jQuery
+* Bootstrap
+* Tailwind
+
+#### BACK END
+* NodeJS
+* Express
+* Firebase
+* MongoDB
 
 
