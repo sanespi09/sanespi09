@@ -16,7 +16,7 @@ taking advantage of my previous experience in graphic design.
 As I refined my skills in the area,   
 I began to feel attracted to what was happening behind the scenes,  
 so, in the beginnings of 2021 I decided to study back-end technologies  
-and get a better grasp about this vast area.
+to get a better grasp about this vast area.
 
 In the present time, i'm focused on the React ecosystem,  
 Making proyects and studying everything i can about it.  
