@@ -43,7 +43,7 @@ Broadly speaking, I consider myself a very creative, analytical, persevering and
 * Firebase
 * MongoDB
 
-#### Utils
+#### UTILITIES
 * GIT
 * NPM / Yarn
 * Bash
