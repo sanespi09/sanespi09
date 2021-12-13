@@ -11,7 +11,7 @@ After a three years academic training in Computer Science back in 2013,
 and getting a B.S as a Sound Engineer in 2019.      
 I've decided to put all my energy towards this technological inclination.  
 In late 2019 entered the world of web development, in a front-end oriented beginning,  
-taking advantage of my previous experiences in graphic design.  
+taking advantage of my previous experiences with graphic design.  
 
 As I refined my skills in the area,   
 I began to feel attracted to what was happening behind the scenes,  
