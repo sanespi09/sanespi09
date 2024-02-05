@@ -1,5 +1,5 @@
 # HI 👋🏼 WELCOME!
-## I'M SANTIAGO ESPINA, SOFTWARE ENGINEER  🤓
+## I'M SANTIAGO ESPINA, SOFTWARE ENGINEER
 
 ### ABOUT ME
 Since childhood i have a profound affinity with technology,  
